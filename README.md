@@ -2,7 +2,7 @@
 
 Former Adult Intensive Care physician and digital clinical architect based in London.
 
-Over 25+ years I have worked where clinical practice, health-system governance, and enterprise clinical software meet — from tertiary ICU medicine, regional public health commissioning, health technology assessment (HTA / pharmacoeconomics), and buyer-side hospital EHR selection in Brazil to 14+ years leading multi-hospital and multi-market digital clinical architecture, new-market entry and EPR optimisation processes, Brazilian clinical model IP, interoperability (`FHIR`), automated clinical decision-support logic, and clinical AI workflow governance across the UK NHS, Europe (Sweden, Portugal, Belgium), and Brazil (including Hospital Israelita Albert Einstein). I currently co-chair the UK Critical Care Special Interest Group (since 2018) and previously represented Oracle Health at NICE.
+Over 25+ years I have worked where clinical practice, health-system governance, and enterprise clinical software meet — from tertiary ICU medicine, regional public health commissioning, health technology assessment (HTA / pharmacoeconomics), and managing digital clinical processes through a buyer-side EHR go-live in Brazil to 14+ years leading multi-hospital and multi-market digital clinical architecture, new-market entry and EPR optimisation processes, Brazilian clinical model IP, automated clinical decision-support logic, clinical AI workflow governance, and applied AI team coaching across the UK NHS, Europe (Sweden, Portugal, Belgium), and Brazil (including Hospital Israelita Albert Einstein). I currently co-chair the UK Critical Care Special Interest Group (since 2018).
 
 #### Independent Technical Sandboxes
 
